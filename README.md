@@ -46,7 +46,7 @@
 
 ### 01、笔灵 AI
 
-传送门： [笔灵英文降AIhttps://u\.ibiling\.cn](https://u.ibiling.cn/SDqBNM) 
+传送门： [笔灵英文降AIhttps://u\.ibiling\.cn](https://ibiling.cn/paper-pass/english?from=githubywjiangai1009jw) 
 
 笔灵是我实测下来较适配英文长文稿的**降 ai 率工具**，在处理模板感较强的英文段落时，文稿自然度提升效果比较稳定。 
 
